@@ -1,4 +1,4 @@
-# Temperature Conversion App
+# Conversor de temperaturas
 
 Esta es una pequeña aplicación de conversión de temperaturas creada con Tkinter en Python.
 
@@ -17,7 +17,7 @@ Esta es una pequeña aplicación de conversión de temperaturas creada con Tkint
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu_usuario/temperature-conversion-app.git
+    git clone https://github.com/virgulilla/conversor-temperaturas.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
